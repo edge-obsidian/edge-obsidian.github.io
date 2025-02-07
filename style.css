@@ -1,0 +1,106 @@
+.background {
+    background-image: url('background.png');
+}
+
+.image{
+    width: 1369px;
+    height: 601px;
+}
+.face{
+    position: absolute;
+    top: 8px;
+    left: 274px;
+}
+.background{
+    background-image: url(background.png); 
+}
+.claoj{
+    position: absolute;
+    top: 8px;
+    left: 487px;
+}
+.buttonface{
+    position: absolute;
+    top: 8px;
+    left: 274px;
+}
+.button-tab {
+    background: none; /* Loại bỏ nền mặc định */
+    border: none;    /* Loại bỏ viền mặc định */
+    padding: 0;      /* Loại bỏ khoảng cách thừa */
+    cursor: pointer; /* Con trỏ chuột thành bàn tay */
+}
+.button-tab:hover{
+    background-color: #474747;
+    border-radius: 5px;
+}
+.hide-image{
+    display:none;
+}
+.faceshow{
+    position: absolute;
+    top: 38px;
+    left: -20px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 1)
+}
+.editprofile{
+    position: absolute;
+    top: 467px;
+    left: 226px;
+}
+.close1{
+    position: absolute;
+    top: 55px;
+    right: 51px;
+}
+.close1image{
+    width: auto;
+    height: auto;
+}
+.extension-button {
+    position: absolute;
+    top: 55px;
+    right: 110px;
+    background-color: transparent; /* Làm trong suốt nền của nút */
+    border: none; /* Loại bỏ viền của nút */
+    cursor: pointer; /* Thêm hiệu ứng con trỏ khi di chuột vào nút */
+    padding: 0;
+}
+
+.extension-img {
+    width: 50px; /* Điều chỉnh kích thước hình ảnh */
+    height: 50px;
+}
+.imagereason{
+    position: absolute;
+    top: 25px;
+    right: -55px;
+}
+
+.hide{
+    display: none;
+}
+.extensionboard{
+    position: absolute;
+    top: 30px;
+    left: -262px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0)
+}
+.addtabplus{
+    position: absolute;
+    top: 8px;
+    left: 495px;
+}
+.addtabplussize{
+    width: auto;
+    height: auto;
+}
+.addtabbutton{
+    position: absolute;
+    top: 8px;
+    left: 0px ;
+    background-color: transparent;
+    border: none; 
+    cursor: pointer;
+    padding: 0;
+}
